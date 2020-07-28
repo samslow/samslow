@@ -1,12 +1,14 @@
-## 🚙I'm Service Driven Develop Samslow
+## I'm Service Driven Develop Samslow 🚙
 
-### I'm looking for a company now.
+### I'm looking for a company now. 👀
 
-* company sholud use React or React-Native
+* Company should use React or React-Native as parts of Frontend stack
 
-* I prefer an environment where I can take the initiative.
+* Prefer an environment where you can take the initiative
 
-* I like a company that values UX more than UI.
+* Consider UX more important than UI.
+
+* Prefer companies with B2C Service Main
 
 ### you can see more about me [HERE](https://samslow.github.io/about)
 
