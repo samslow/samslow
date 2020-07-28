@@ -1,4 +1,25 @@
-### Hi there 👋
+## 🚙I'm Service Driven Develop Samslow
+
+### I'm looking for a company now.
+
+* company sholud use React or React-Native
+
+* I prefer an environment where I can take the initiative.
+
+* I like a company that values UX more than UI.
+
+### you can see more about me [HERE](https://samslow.github.io/about)
+
+* Sorry, this page serve only korean. but i provide eng. ver ASAP.
+
+##### My whole life goal is making 5 service that earn every month almost 100$💵!
+
+* [CatchDeal](https://github.com/catchdeal/Intro)
+
+* WIP..! launching within 2020 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamslow%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 
 <!--
 **samslow/samslow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
