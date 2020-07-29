@@ -6,7 +6,7 @@
 
 * Prefer an environment where you can take the initiative
 
-* Consider UX more important than UI.
+* Consider UX as important as UI.
 
 * Prefer companies with B2C Service Main
 
