@@ -1,6 +1,6 @@
 ## I'm Service Driven Develop Samslow 🚙
 
-### I'm looking for a company now. 👀
+### I'm looking for a job now. 👀
 
 * Company should use React or React-Native as parts of Frontend stack
 
