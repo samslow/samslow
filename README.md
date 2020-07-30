@@ -18,6 +18,8 @@
 
 * [CatchDeal](https://github.com/catchdeal/Intro)
 
+* [Studymouse](https://github.com/study-mouse)
+
 * WIP..! launching within 2020 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamslow%2Fhit-counter)](https://hits.seeyoufarm.com)
