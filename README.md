@@ -1,12 +1,12 @@
 ## I'm Service Driven Develop Samslow 🚙
 
-### I'm looking for a job now. 👀
+### I prefer this kind of company. 👀
 
 * Company should use React or React-Native as parts of Frontend stack
 
 * Prefer an environment where you can take the initiative
 
-* Consider UX as important as UI.
+* Where to consider UX as important as UI.
 
 * Prefer companies with B2C Service Main
 
