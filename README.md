@@ -14,7 +14,7 @@
 
 * Sorry, this page serve only korean. but i provide eng. ver ASAP.
 
-##### My whole life goal is making 5 service that earn every month minimum above 100$💵!
+##### My whole life goal is making 5 service that earn every month minimum above 1,000$💵!
 
 * [CatchDeal](https://github.com/catchdeal/Intro)
 
