@@ -8,7 +8,7 @@
 
 * Where to consider UX as important as UI.
 
-* Prefer companies with B2C Service Main
+* Prefer companies with B2C Service as a main
 
 ### you can see more about me [HERE](https://samslow.github.io/about)
 
@@ -24,3 +24,4 @@ In addition, it will earn at least $1,000 💵!
 * WIP..! launching within 2020 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamslow%2Fhit-counter)](https://hits.seeyoufarm.com)
+
