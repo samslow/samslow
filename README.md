@@ -12,7 +12,7 @@
 
 ### you can see more about me [HERE](https://samslow.github.io/about)
 
-* Sorry, this page serve only korean. but i provide eng. ver ASAP.
+* Sorry, above page serve only korean. but i provide eng ver ASAP.
 
 #### The goal of my whole life is to create five services that will change people's lifestyles.
 In addition, it will earn at least $1,000 💵!
