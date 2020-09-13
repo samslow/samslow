@@ -1,18 +1,6 @@
 ## I'm Service Driven Develop Samslow 🚙
 
-### I prefer this kind of company. 👀
-
-* Company should use React or React-Native as parts of Frontend stack
-
-* Prefer an environment where you can take the initiative
-
-* Where to consider UX as important as UI.
-
-* Prefer companies with B2C Service as a main
-
 ### you can see more about me [HERE](https://samslow.github.io/about)
-
-* Sorry, above page serve only korean. but i provide eng ver ASAP.
 
 #### The goal of my whole life is to create five services that will change people's lifestyles.
 In addition, it will earn at least $1,000 💵!
